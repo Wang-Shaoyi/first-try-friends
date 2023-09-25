@@ -1,6 +1,6 @@
 ## 果熊档案
 
-![](photos/guoixong.jpg)
+![](photos\guoxiong.jpg)
 
 - 姓名：果熊
 - 特点：机灵
@@ -9,3 +9,5 @@
 ### 自我介绍：
 大家好~我是最可爱甜美的果熊~
 我喜欢和柴柴到处旅游~略~~~~
+
+[def]: photos/guoixong.jpg
