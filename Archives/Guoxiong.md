@@ -1,6 +1,6 @@
 ## 果熊档案
 
-![](photos\guoxiong.jpg)
+![](photos/guoxiong.jpg)
 
 - 姓名：果熊
 - 特点：机灵
